@@ -30,7 +30,7 @@ Skills: - HTML5 - CSS3 - Tailwind CSS - JavaScript (ES6+) - React.js - Vite - No
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /> 
   <img src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /> 
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /> 
-  <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" height="50" /> 
+ 
 </p>
 
 ---
