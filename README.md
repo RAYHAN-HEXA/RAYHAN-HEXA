@@ -8,6 +8,7 @@
 - 🤔 I’m looking for help with improving my system design skills.
 - 💬 Ask me about **React.js, Node.js, Express, MongoDB**, and Full-stack development.
 - 📫 How to reach me: **md.rayahx617@gmail.com** 📧
+- 📞 01978730955
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite language is JavaScript, but my heart speaks MERN 💖🚀
 
