@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: - HTML5 - CSS3 - Tailwind CSS - JavaScript (ES6+) - React.js - Vite - Node.js - Express.js - MongoDB - Firebase - Git - GitHub - Figma -
+
 
 - 🔭 I’m currently working on 🌍 I’m MERN STACK DEVELOPER based on Bangladesh. 
 - 🌱 I’m currently learning  I’m currently learning Next.js & TypeScript. 
