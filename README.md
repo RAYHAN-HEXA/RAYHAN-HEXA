@@ -15,20 +15,42 @@ Skills: - HTML5 - CSS3 - Tailwind CSS - JavaScript (ES6+) - React.js - Vite - No
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: My favorite language is JavaScript, but my heart speaks MERN 💖🚀 
 
+## 🛠️ Tech Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /> 
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" height="50" /> 
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RAYHAN-HEXA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-rayhan-70845238b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ray.han.911782/)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## 📊 GitHub Stats 
+<div align="center" style="background:#101828;padding:16px;border-radius:12px;display:inline-block">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYHAN-HEXA&layout=compact&bg_color=101828&theme=react" alt="Top Languages" style="vertical-align:middle;margin-right:12px;border-radius:8px" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=RAYHAN-HEXA&show_icons=true&bg_color=101828&theme=react&count_private=true" alt="GitHub Stats" style="vertical-align:middle;margin-right:12px;border-radius:8px" />
+  <img height="140" src="https://streak-stats.demolab.com/?user=RAYHAN-HEXA&theme=react&background=101828" alt="Streak Stats" style="vertical-align:middle;border-radius:8px"/>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/RAYHAN-HEXA)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/RAYHAN-HEXA)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/RAYHAN-HEXA&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/RAYHAN-HEXA/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/RAYHAN-HEXA)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/RAYHAN-HEXA)  
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-rayhan-70845238b/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rayhan" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/ray.han.911782/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ray.han.911782" height="30" width="40" />
+  </a>
+</p>
 
