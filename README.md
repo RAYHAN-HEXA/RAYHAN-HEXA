@@ -35,12 +35,7 @@ Skills: - HTML5 - CSS3 - Tailwind CSS - JavaScript (ES6+) - React.js - Vite - No
 
 ---
 
-## 📊 GitHub Stats 
-<div align="center" style="background:#101828;padding:16px;border-radius:12px;display:inline-block">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYHAN-HEXA&layout=compact&bg_color=101828&theme=react" alt="Top Languages" style="vertical-align:middle;margin-right:12px;border-radius:8px" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=RAYHAN-HEXA&show_icons=true&bg_color=101828&theme=react&count_private=true" alt="GitHub Stats" style="vertical-align:middle;margin-right:12px;border-radius:8px" />
-  <img height="140" src="https://streak-stats.demolab.com/?user=RAYHAN-HEXA&theme=react&background=101828" alt="Streak Stats" style="vertical-align:middle;border-radius:8px"/>
-</div>
+
 
 ---
 
